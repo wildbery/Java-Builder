@@ -1,0 +1,30 @@
+{
+  "name": "java-builder",
+  "displayName": "Java Builder",
+  "description": "build and run. just.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Keymaps"
+  ],
+  "contributes": {
+    "keybindings": [
+      {
+        "key": "ctrl+alt+b",
+        "command": "command-runner.run",
+        "args": {
+          "command": "javac ${file}"
+        }
+      },
+      {
+        "key": "ctrl+alt+f",
+        "command": "command-runner.run",
+        "args": {
+          "command": "java ${file}"
+        }
+      }
+    ]
+  }
+}
