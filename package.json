@@ -9,6 +9,11 @@
   "categories": [
     "Keymaps"
   ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildbery/Java-Builder.git"
+  },
   "contributes": {
     "keybindings": [
       {
