@@ -1,6 +1,6 @@
 # Java builder
 
-THIS EXTENSION REQUIERD Command Runner EXTENSION.
+THIS EXTENSION REQUIERD "Command Runner" EXTENSION.
 
 Java runner makes compiling java code simpler.
 
