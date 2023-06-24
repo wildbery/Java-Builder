@@ -1,5 +1,7 @@
 # Java builder
 
+~~Do not use this use eclipce~~
+
 THIS EXTENSION REQUIERD "Command Runner" EXTENSION.
 
 Java runner makes compiling java code simpler.
